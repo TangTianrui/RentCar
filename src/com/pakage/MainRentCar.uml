@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.pakage.PeopleCar</OriginalElement>
+  <nodes>
+    <node x="0.0" y="568.5">com.pakage.PeopleCar</node>
+    <node x="197.0" y="728.0">com.pakage.RentCar</node>
+    <node x="486.0" y="568.5">com.pakage.CargoCar</node>
+    <node x="269.0" y="0.0">com.pakage.People</node>
+    <node x="0.0" y="728.0">com.pakage.MainRentCar</node>
+    <node x="0.0" y="0.0">com.pakage.SetCar</node>
+    <node x="752.0" y="401.0">com.pakage.ShowCar</node>
+    <node x="293.0" y="401.0">com.pakage.Car</node>
+    <node x="235.0" y="557.0">com.pakage.PikaCar</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.pakage.PikaCar" target="com.pakage.Car">
+      <point x="0.0" y="-63.0" />
+      <point x="0.0" y="53.0" />
+    </edge>
+    <edge source="com.pakage.PeopleCar" target="com.pakage.Car">
+      <point x="0.0" y="-51.5" />
+      <point x="107.5" y="532.0" />
+      <point x="312.1666666666667" y="532.0" />
+      <point x="-38.333333333333314" y="53.0" />
+    </edge>
+    <edge source="com.pakage.CargoCar" target="com.pakage.Car">
+      <point x="0.0" y="-51.5" />
+      <point x="596.5" y="532.0" />
+      <point x="388.83333333333337" y="532.0" />
+      <point x="38.33333333333337" y="53.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7995049504950495" x="461.5" y="394.0" />
+  <SelectedNodes>
+    <node>com.pakage.PeopleCar</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
